@@ -1,7 +1,7 @@
 # VVA---R-servation-d-h-bergements
 Location d'hébergements
 
-VVA Stands for Village Vacances Alpes. 
+VVA = Village Vacances Alpes. 
 
 Ce site Web permet de réserver pour une période définie, un hébergement. 
 
