@@ -1,0 +1,32 @@
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 0px solid #eee;
+    }
+.navbar-default {
+    background-color: #ffffff;
+    
+}
+
+.navbar{
+	margin-bottom: 20px;
+}
+
+.card-img-top {
+  width: 100%;
+  border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px);
+}
+
+li{
+	list-style: none;
+}
+
+.card{
+	margin-bottom: 30px;
+}
+
+
+#consulteDernierement{
+  background-color: red;
+}
