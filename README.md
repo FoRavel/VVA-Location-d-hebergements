@@ -1,7 +1,7 @@
 # VVA---R-servation-d-h-bergements
 Location d'hébergements
 
-VVA = Village Vacances Alpes. 
+VVA = Village Vacances Alpes. Ce projet a servi de support à l'épreuve E4 du BTS.
 
 Ce site Web permet de réserver pour une période définie, un hébergement. 
 
