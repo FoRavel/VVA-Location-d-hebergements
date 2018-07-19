@@ -3,7 +3,7 @@ Location d'hébergements
 
 VVA = Village Vacances Alpes. Ce projet a servi de support à l'épreuve E4 du BTS.
 
-Ce site Web permet de réserver pour une période définie, un hébergement. 
+Ce site Web permet de réserver pour une période définie, un hébergement parmis ceux proposés par le site.
 
 Spécificités techniques principales:
 - Afficher la liste des hébergements avec leurs caractéristiques (libellé, surface habitable, prix de location, wi-fi...)
