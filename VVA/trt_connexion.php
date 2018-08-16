@@ -4,7 +4,7 @@ if(ISSET($_POST["user"]) AND ISSET($_POST["mdp"]))
 	$user = $_POST["user"];
 	$mdp = $_POST["mdp"];
 
-	$bdd = new PDO("mysql:host=127.0.0.1:801;dbname=vva;charset=utf8", "root", "");
+	$bdd = new PDO("mysql:host=localhost;dbname=vva;charset=utf8", "root", "");
 	$req = $bdd->prepare("SELECT USER, MDP, TYPECOMPTE FROM compte WHERE user = ? AND mdp = ?");
 	$req->execute(ARRAY($user, $mdp));
 	if(!$donnees = $req->fetch())
