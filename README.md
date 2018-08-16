@@ -23,3 +23,7 @@ CONFIGURATION BASE DE DONNEES:
 $bdd = new PDO("mysql:host=localhost;dbname=vva;charset=utf8", "root", "");
 
 Le fichier .sql de la base de données est présent dans le git et s'appelle vva.sql
+
+Identifiants de test:
+identifiant:admin
+mdp:123abc
